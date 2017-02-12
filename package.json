@@ -2,7 +2,6 @@
   "name": "angular2-debounce",
   "version": "1.0.0",
   "description": "Directive that adds a debounce effect (delay) to your input fields.",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/numsu/angular2-debounce.git"
@@ -18,7 +17,7 @@
     "delay",
     "@angular"
   ],
-  "author": "Miro Metsänheimo <miro@metsanheimo.fi>",
+  "author": "Miro Metsänheimo <miro@metsanheimo.fi> (https://miro.metsanheimo.fi)",
   "main": "angular2-debounce.ts",
   "license": "MIT",
   "devDependencies": {

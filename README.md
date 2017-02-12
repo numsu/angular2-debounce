@@ -7,7 +7,7 @@ It delays the start of a function call after every keyup -event.
 ## Installation:
 
 ```bash
-npm install angular2-debounce
+npm install angular2-debounce --save
 ```
 
 ## Use Example:
