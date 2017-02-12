@@ -1,0 +1,9 @@
+node_modules/
+bundles/
+npm-debug.log
+angular2-debounce.d.ts
+angular2-debounce.js
+angular2-debounce.js.map
+src/debounce.directive.js
+src/debounce.directive.js.map
+src/debounce.directive.d.ts
