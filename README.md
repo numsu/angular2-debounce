@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/angular2-debounce.svg)](https://badge.fury.io/js/angular2-debounce)
+[![npm version](https://badge.fury.io/js/angular2-debounce.svg)](https://www.npmjs.com/package/angular2-debounce)
 
 # angular2-debounce
 
