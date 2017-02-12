@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/angular2-debounce.svg)](https://badge.fury.io/js/angular2-debounce)
+
 # angular2-debounce
 
 ***angular2-debounce*** is an Angular2 directive that adds a debounce to your input fields.
