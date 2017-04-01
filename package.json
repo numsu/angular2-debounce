@@ -1,6 +1,6 @@
 {
   "name": "angular2-debounce",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Directive that adds a debounce effect (delay) to your input fields.",
   "repository": {
     "type": "git",
