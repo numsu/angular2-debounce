@@ -1,5 +1,4 @@
-import {Input, Output} from '@angular/core/src/metadata/directives';
-import {EventEmitter, ElementRef, OnInit, Directive} from '@angular/core';
+import {EventEmitter, ElementRef, OnInit, Directive, Input, Output} from '@angular/core';
 import {Observable} from 'rxjs';
 import {NgModel} from '@angular/forms';
 
